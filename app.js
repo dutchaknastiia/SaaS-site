@@ -1,7 +1,7 @@
 // Initial Mock Data for Igor's 50+ / Fleet Equipment if storage is empty
 const INITIAL_TOOLS = [
     { id: 1, name: "Bosch Rotary Hammer Drill", category: "Power Tools", price: 35, status: "Available", image: "https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&w=600&q=80", rentCount: 12 },
-    { id: 2, name: "Honda Mini Excavator 1.5t", category: "Heavy Machinery", price: 250, status: "Available", image: "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=600&q=80", rentCount: 8 },
+    { id: 2, name: "Honda Mini Excavator 1.5t", category: "Heavy Machinery", price: 250, status: "Available", image: "https://images.unsplash.com/photo-1579486840624-500b12d4a2d8?auto=format&fit=crop&w=600&q=80", rentCount: 8 },
     { id: 3, name: "Husqvarna Chainsaw 450", category: "Garden Equipment", price: 45, status: "Available", image: "https://images.unsplash.com/photo-1617104551784-3c2993b3f37f?auto=format&fit=crop&w=600&q=80", rentCount: 15 },
     { id: 4, name: "DeWalt Angle Grinder 9-Inch", category: "Power Tools", price: 25, status: "Available", image: "https://images.unsplash.com/photo-1572981779307-38b8cabb2407?auto=format&fit=crop&w=600&q=80", rentCount: 10 },
     { id: 5, name: "Caterpillar Skid Steer Loader", category: "Heavy Machinery", price: 300, status: "Rented", image: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=600&q=80", rentCount: 22 },
